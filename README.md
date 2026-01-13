@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Python developer |<br>Backend developer in FastAPI & Flask <br>Student at SWAMI VIVEKANANDA UNIVERSITY <br>Pursuing Bachelor’s in Computer Application<br>passionate about understanding the complexities of human behaviour.<br>effective communication<br>Critical thinking and problem solving<br>
+I am a Python developer |<br>Backend developer in FastAPI & Flask <br>Student at SWAMI VIVEKANANDA UNIVERSITY <br>Pursuing Bachelor’s in Computer Application<br>passionate about understanding the complexities of human behaviour.<br>effective communication<br>Critical thinking and problem solver<br>
 
 
 ## 🌐 Socials:
