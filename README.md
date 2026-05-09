@@ -140,6 +140,6 @@ class Pritam:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paulpritam0007&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
 
-*Crafted with ☕ Java, 🐍 Python, and a lot of curiosity.*
+*Crafted with Java, Python, and a lot of curiosity.*
 
 </div>
