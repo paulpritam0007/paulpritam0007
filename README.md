@@ -25,7 +25,11 @@ public class Developer {
 
 </div>
 
-<div class="tenor-gif-embed" data-postid="15470840" data-share-method="host" data-aspect-ratio="0.9" data-width="100%"><a href="https://tenor.com/view/pentol-stiker-pentol-quby-stiker-typing-gif-15470840">Pentol Stiker Pentol Sticker</a>from <a href="https://tenor.com/search/pentol-stickers">Pentol Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center">
+  <img src="https://media.tenor.com/QDPE3u9DMOYAAAAC/pentol-stiker-pentol.gif" width="200"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+and+FastAPI+Developer;Backend+Architect;Exploring+Java+and+DSA;Critical+Thinker+%7C+Problem+Solver;FAANG+Interview+Prep+Mode" alt="Typing SVG" />
+</div>
 ---
 
 <div align="center">
