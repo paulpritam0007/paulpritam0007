@@ -28,7 +28,7 @@ public class Developer {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+%26+FastAPI+Developer+🐍;Backend+Architect+⚙️;Exploring+Java+%26+DSA+☕;Critical+Thinker+%7C+Problem+Solver+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Core+Java+%26+Python+Developer+🐍;Backend+Architect+⚙️;Exploring+Java+%26+DSA+☕;Critical+Thinker+%7C+Problem+Solver+🧠" alt="Typing SVG" />
 </div>
 
 ---
@@ -43,7 +43,7 @@ public class Developer {
 | **Build Tool** | Maven / Gradle |
 | **IDE** | IntelliJ IDEA |
 | **Focus Area** | DSA · Collections · OOP |
-| **Current Goal** | FAANG Interview Prep via Striver A2Z |
+| **Current Goal** | DSA fluency |
 
 ```bash
 $ javac --version
@@ -72,9 +72,7 @@ $ java -cp . Developer
 ## 🧩 LeetCode Progress
 
 <div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/paulpritam0007?theme=dark&font=Fira%20Code&ext=heatmap)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pritampaul0007?theme=dark&font=Fira_Code&ext=heatmap)
 </div>
 
 > ⚔️ Grinding daily — one problem at a time, one pattern at a time.
