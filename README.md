@@ -25,6 +25,7 @@ public class Developer {
 
 </div>
 
+<div class="tenor-gif-embed" data-postid="15470840" data-share-method="host" data-aspect-ratio="0.9" data-width="100%"><a href="https://tenor.com/view/pentol-stiker-pentol-quby-stiker-typing-gif-15470840">Pentol Stiker Pentol Sticker</a>from <a href="https://tenor.com/search/pentol-stickers">Pentol Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 <div align="center">
