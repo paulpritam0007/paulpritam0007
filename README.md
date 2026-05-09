@@ -28,6 +28,8 @@ public class Developer {
 ---
 
 <div align="center">
+    <img src="https://media.tenor.com/QDPE3u9DMOYAAAAC/pentol-stiker-pentol.gif" width="200"/>
+    <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+and+Django+Developer;Backend+Architect;Exploring+Java+and+DSA;Critical+Thinker+%7C+Problem+Solver;Understanding+Human+Complex+Behaviour" alt="Typing SVG" />
 </div>
 
