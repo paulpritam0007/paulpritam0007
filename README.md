@@ -14,11 +14,11 @@ public class Developer {
 
     private final String name     = "Pritam Paul";
     private final String role     = "Backend Developer";
-    private final String[] stack  = {"Python", "FastAPI", "Flask", "Java"};
+    private final String[] stack  = {"Java", "Python", "SpringBoot", "Django"};
     private final String passion  = "Human Behaviour × Clean Code";
 
     public String greet() {
-        return "Welcome to my profile! Let's build something great. 🚀";
+        return "Welcome to my profile! Let's build something great.";
     }
 }
 ```
