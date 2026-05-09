@@ -28,7 +28,7 @@ public class Developer {
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Core+Java+%26+Python+Developer+🐍;Backend+Architect+⚙️;Exploring+Java+%26+DSA+☕;Critical+Thinker+%7C+Problem+Solver+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+and+FastAPI+Developer;Backend+Architect;Exploring+Java+and+DSA;Critical+Thinker+%7C+Problem+Solver;FAANG+Interview+Prep+Mode" alt="Typing SVG" />
 </div>
 
 ---
@@ -61,7 +61,7 @@ $ java -cp . Developer
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritampaul0007/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pritampaulin/])
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/paulpritam0007/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.pritam0007@gmail.com)
 
@@ -72,6 +72,7 @@ $ java -cp . Developer
 ## 🧩 LeetCode Progress
 
 <div align="center">
+    
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Pritampaul0007?theme=dark&font=Fira_Code&ext=heatmap)
 </div>
 
@@ -137,7 +138,7 @@ class Pritam:
 
 <div align="center">
 
-[![Visit Count](https://visitcount.itsvg.in/api?id=paulpritam0007&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=paulpritam0007&color=00b4d8&style=for-the-badge&label=PROFILE+VIEWS)
 
 *Crafted with ☕ Java, 🐍 Python, and a lot of curiosity.*
 
