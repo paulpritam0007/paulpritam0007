@@ -1,21 +1,146 @@
-# 💫 About Me:
-I am a Python developer |<br>Backend developer in FastAPI & Flask <br>Student at SWAMI VIVEKANANDA UNIVERSITY <br>Pursuing Bachelor’s in Computer Application<br>passionate about understanding the complexities of human behaviour.<br>effective communication<br>Critical thinking and problem solver<br>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PRITAM PAUL — GitHub README                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pritampaul0007/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paul.pritam0007@gmail.com) 
+```java
+/**
+ * @author  Pritam Paul
+ * @version 2025.1
+ * @since   BCA @ Swami Vivekananda University
+ */
+public class Developer {
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=paulpritam0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=paulpritam0007&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpritam0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+    private final String name     = "Pritam Paul";
+    private final String role     = "Backend Developer";
+    private final String[] stack  = {"Python", "FastAPI", "Flask", "Java"};
+    private final String passion  = "Human Behaviour × Clean Code";
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+    public String greet() {
+        return "Welcome to my profile! Let's build something great. 🚀";
+    }
+}
+```
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=paulpritam0007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Python+%26+FastAPI+Developer+🐍;Backend+Architect+⚙️;Exploring+Java+%26+DSA+☕;Critical+Thinker+%7C+Problem+Solver+🧠" alt="Typing SVG" />
+</div>
+
+---
+
+## ☕ Java Dev Environment
+
+<div align="center">
+
+| Setting | Value |
+|---|---|
+| **JDK** | OpenJDK 21 LTS |
+| **Build Tool** | Maven / Gradle |
+| **IDE** | IntelliJ IDEA |
+| **Focus Area** | DSA · Collections · OOP |
+| **Current Goal** | FAANG Interview Prep via Striver A2Z |
+
+```bash
+$ javac --version
+javac 21.0.2
+
+$ java -cp . Developer
+> Welcome to my profile! Let's build something great. 🚀
+```
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pritampaul0007/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/paulpritam0007/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paul.pritam0007@gmail.com)
+
+</div>
+
+---
+
+## 🧩 LeetCode Progress
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/paulpritam0007?theme=dark&font=Fira%20Code&ext=heatmap)
+
+</div>
+
+> ⚔️ Grinding daily — one problem at a time, one pattern at a time.
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Core Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paulpritam0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=paulpritam0007&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulpritam0007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+---
+
+## 💡 About Me
+
+```python
+class Pritam:
+    education = "BCA @ Swami Vivekananda University"
+    interests = [
+        "Backend Engineering",
+        "Human Behaviour & Psychology",
+        "DSA & Problem Solving",
+        "Effective Communication",
+    ]
+    currently_learning = ["Java (DSA)", "System Design", "FAANG Prep"]
+    fun_fact = "I debug code like I analyse people — with patience and patterns."
+```
+
+---
+
+### ✍️ Dev Quote of the Day
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+<div align="center">
+
+[![Visit Count](https://visitcount.itsvg.in/api?id=paulpritam0007&icon=0&color=0)](https://visitcount.itsvg.in)
+
+*Crafted with ☕ Java, 🐍 Python, and a lot of curiosity.*
+
+</div>
